@@ -6,6 +6,7 @@ function whisper(string){
   return string.toLowerCase()
 }
 
+<<<<<<< HEAD
 function logShout(string){
   console.log('HELLO')
   return string.toUpperCase
@@ -35,3 +36,8 @@ function sayHiToGrandma(string){
 }
 
 
+=======
+functon logShout(string){
+  console.log
+}
+>>>>>>> d5fea12fda34e3d0f2dc79d124f8542321533b64
